@@ -1,0 +1,18 @@
+==================================================
+BEST GENOME EXTRACTION
+==================================================
+
+Extracted: 20251229_140150
+Source: session_20251229_115159
+Generation: 600
+Model Type: mnist
+
+Genome ID: 3383
+Trust: 1764.44
+
+Network Architecture:
+  Input:  784 (28x28 MNIST)
+  Hidden: 64
+  Output: 10 (0-9)
+
+File Size: 448.0 KB (458,756 bytes)

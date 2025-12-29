@@ -1,0 +1,18 @@
+==================================================
+BEST GENOME EXTRACTION
+==================================================
+
+Extracted: 20251228_153402
+Source: session_20251227_230327
+Generation: 1862
+Model Type: alphabet-raw
+
+Genome ID: 2839
+Trust: 198.89
+
+Network Architecture:
+  Input:  10000 (100x100 raw pixels)
+  Hidden: 128
+  Output: 26 (a-z)
+
+File Size: 11.0 MB (11,556,245 bytes)

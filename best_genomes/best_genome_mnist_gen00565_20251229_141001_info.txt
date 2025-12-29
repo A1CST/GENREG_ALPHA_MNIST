@@ -1,0 +1,18 @@
+==================================================
+BEST GENOME EXTRACTION
+==================================================
+
+Extracted: 20251229_141001
+Source: session_20251229_130125
+Generation: 565
+Model Type: mnist
+
+Genome ID: 1830
+Trust: 1251.87
+
+Network Architecture:
+  Input:  784 (28x28 MNIST)
+  Hidden: 32
+  Output: 10 (0-9)
+
+File Size: 224.3 KB (229,641 bytes)
