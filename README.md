@@ -49,27 +49,7 @@ Key differences from gradient-based training:
 - Can modify hyperparameters mid-training without restarting
 - Discovers remarkably compact solutions under capacity constraints
 
-## Repository Contents
 
-```
-├── checkpoints/
-│   ├── mnist/
-│   │   └── best_genome_mnist_gen00600_20251229_140150.pkl
-│   └── alphabet/
-│       └── best_genome_alphabet_gen01862_complete.pkl
-├── evaluation/
-│   ├── mnist_eval_official_10k.py
-│   └── alphabet_eval.py
-├── visualizations/
-│   ├── mnist_embeddings_64neurons_umap.png
-│   ├── mnist_embeddings_32neurons_umap.png
-│   ├── mnist_confusion_matrix.png
-│   └── training_curves.png
-├── results/
-│   ├── mnist_results.json
-│   └── alphabet_results.json
-└── README.md
-```
 
 ## Quick Start
 
